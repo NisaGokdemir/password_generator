@@ -25,7 +25,7 @@ No special installation is required for this project. Simply download the projec
 - Copy to Clipboard: Easily copy the generated password for immediate use.
 
 ## Live Demo 🌐
-- Live Demo: 
+- Live Demo: [Password Generator](https://password-generator-theta-dun.vercel.app/)
 
 ## Contributing 🤝
 Feel free to use, modify, and contribute to the project! If you have any questions or feedback, you can reach me at nisagokdemir@gmail.com. Happy password generating!
